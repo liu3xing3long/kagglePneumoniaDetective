@@ -1,0 +1,6 @@
+classes=3
+train  = cfg/train.list
+valid  = cfg/test.list
+labels = cfg/labels.txt
+backup = ../data/backup/
+top=2
